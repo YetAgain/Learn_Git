@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Learn_Git",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
